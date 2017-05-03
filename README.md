@@ -9,7 +9,7 @@ Provide vim autocompletion source for [asyncomplete.vim](https://github.com/prab
 ```vim
 Plug 'Shougo/neco-vim'
 Plug 'prabirshrestha/asyncomplete.vim'
-Plug 'prabirshrestha/asyncomplete-necosyntax.vim'
+Plug 'prabirshrestha/asyncomplete-necovim.vim'
 ```
 
 #### Registration
